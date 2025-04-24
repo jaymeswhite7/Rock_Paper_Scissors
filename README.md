@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors
+# Rock-Paper-Scissors
 
 Play a game of Rock, Paper, Scissors! Your choice between Best of 3 or 5.
 
