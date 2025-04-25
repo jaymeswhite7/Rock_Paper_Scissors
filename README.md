@@ -2,7 +2,7 @@
 
 Play a game of Rock, Paper, Scissors! Your choice between Best of 3 or 5.
 
-Python used.
+Console-based Python used.
 
 Once you run the code, you enter your choice between Best of 3 or 5.
 Then, enter your choice between: Rock, Paper, and Scissors.
